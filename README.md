@@ -1,4 +1,6 @@
 # BookListRazor
+BookListRazor is a web application that represents a fully functional library. The admin of the library can see, update or add new books to inventory to the as well.
+
 ## Scope
 Following are the some of the objectives and goals that define the scope of this application.
 * It is a C# application built on the design pattern of **ASP.NET Core** framework. 
